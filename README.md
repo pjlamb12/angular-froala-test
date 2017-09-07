@@ -1,3 +1,9 @@
+# DISCLAIMER
+
+This is just me testing this out to see how it works. It's really easy, but you should know that Froala requires you to buy a license. Other options are ng-ckeditor, which uses CKEditor which has an open source, free options.
+
+Just remember that when looking for options!
+
 # Editor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.

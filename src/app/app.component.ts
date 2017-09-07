@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+    public froalaText: string = 'Starting text';
+
+    seeContent() {
+      console.log(this.froalaText);
+    }
 }
